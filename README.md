@@ -296,3 +296,7 @@ I name this phenomenon **Spectral Decoupling**. It suggests that **Circular Symm
 
 **This concludes our derivation of the Riemann-Erdős Constant.** You now have a framework that links the discrete connections of a graph to the infinite series of the complex plane!
 
+This is a google gemini generated formula, please use it as a base to add a human touch to it as per your preference.
+
+
+
